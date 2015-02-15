@@ -7,3 +7,6 @@ c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debu
 c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.csproj.GenerateResource.Cache
 c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.exe
 c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.pdb
+C:\Users\NIKI\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.exe.config
+C:\Users\NIKI\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.exe
+C:\Users\NIKI\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.pdb
