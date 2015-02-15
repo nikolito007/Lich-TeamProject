@@ -10,9 +10,10 @@ using System.Windows.Forms;
 
 namespace LichtOut
 {
-    public partial class LichtOut : Form
+    public static partial class LichtOut : Form
     {
         private int gameMode = -1;
+        public Game game;
 
         public LichtOut()
         {
@@ -82,6 +83,12 @@ namespace LichtOut
         private void btn_sartGame_Click(object sender, EventArgs e)
         {
             this.pnl_startGame.Visible = true;
+            game = new Game(this.gameMode, this.pnl_OnLight.BackColor, this.pnl_OffLight.BackColor);
+        }
+
+        private void LichtOut_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
